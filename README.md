@@ -48,9 +48,6 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
   - R2 score: 0.630266
   - CV-mean: 0.465583
 
-
-  
-
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.
 - Explored correlations between concrete composition factors and strength using scatter plots, histograms, and heatmaps.

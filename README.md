@@ -16,7 +16,7 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
 
 **Modeling and Analysis:**
 1. **Model Selection and Evaluation:**
-   - Utilized multiple regression, ridge regression, polynomial regression, support vector regression, and K-nearest neighbors (KNN) algorithms.
+   - Utilized multiple regression, ridge regression, polynomial regression, support vector regression, and K-nearest neighbours (KNN) algorithms.
    - Evaluated model performance using metrics such as Root Mean Squared Error (RMSE), Mean Absolute Error (MAE), Mean Squared Error (MSE), R2 score, and cross-validation (CV) mean.
 
 **Results:**

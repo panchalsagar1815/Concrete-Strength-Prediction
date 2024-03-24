@@ -48,9 +48,7 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
   - R2 score: 0.630266
   - CV-mean: 0.465583
 
-- **K-nearest Neighbors (KNN):**
-  - RMSE: 9.138605
-  
+
   
 
 **Data Visualization and Exploration:**

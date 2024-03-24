@@ -1,6 +1,4 @@
-# 
-
-**Project: Concrete Strength Prediction**
+# **Project: Concrete Strength Prediction**
 
 **Objective:**
 The "Concrete Strength Prediction" project aims to develop predictive models to estimate the strength of concrete based on various composition factors. By analyzing features such as cement, slag, flyash, water, superplasticizer, coarse_agg, fine_agg, and age, the project seeks to create accurate models for predicting concrete strength. 

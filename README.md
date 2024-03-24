@@ -50,7 +50,7 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
 
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.
-- Explored correlations between concrete composition factors and strength using scatter plots, histograms, and heatmaps.
+- Explored correlations between concrete composition factors and strength using scatter plots, histograms, and heat maps.
 
 **ETL (Extract, Transform, Load):**
 - Processed, analyzed, and stored data in a structured format for further analysis and model training.

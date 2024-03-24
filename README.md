@@ -1,4 +1,4 @@
-# Concrete-Strength
+# Concrete
 
 **Project: Concrete Strength Prediction**
 

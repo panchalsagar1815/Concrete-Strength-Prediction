@@ -36,8 +36,6 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
   - RMSE: 7.303396
   - MAE: 5.612208
   - MSE: 53.339588
-  - R2 score: 0.821042
-  - CV-mean: 0.495709
 
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.

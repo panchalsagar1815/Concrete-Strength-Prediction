@@ -41,8 +41,6 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
 
 - **Support Vector Regression (SVR):**
   - RMSE: 10.497693
-  - MAE: 8.149601
-  - MSE: 110.201562
 
 
 **Data Visualization and Exploration:**

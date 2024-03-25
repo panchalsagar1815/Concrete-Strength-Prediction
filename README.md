@@ -19,7 +19,7 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
 
 **Results:**
 - **Multiple Regression:**
-  - RMSE: 9.851294
+
   
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.

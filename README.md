@@ -31,10 +31,6 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
   - MSE: 97.178251
   - R2 score: 0.673960
   - CV-mean: 0.495964
-
-- **Polynomial Regression:**
-  - RMSE: 7.303396
-
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.
 - Explored correlations between concrete composition factors and strength using scatter plots, histograms, and heat maps.

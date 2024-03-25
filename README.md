@@ -39,8 +39,7 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
   - R2 score: 0.821042
   - CV-mean: 0.495709
 
-- **Support Vector Regression (SVR):**
-  - RMSE: 10.497693
+
 
 
 **Data Visualization and Exploration:**

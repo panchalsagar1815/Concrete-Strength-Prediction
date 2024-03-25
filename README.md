@@ -34,8 +34,6 @@ The "Concrete Strength Prediction" project aims to develop predictive models to 
 
 - **Polynomial Regression:**
   - RMSE: 7.303396
-  - MAE: 5.612208
-  - MSE: 53.339588
 
 **Data Visualization and Exploration:**
 - Utilized Seaborn, Matplotlib, and other libraries for data visualization.
